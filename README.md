@@ -81,7 +81,17 @@ Designed with a mobile-first approach for a smooth experience across all screen 
 | **Font Awesome** | Icons |
 
 ---
+# 🌐 Live Demo
 
+Experience the HR Management System in action by visiting the live application.
+
+<p align="center">
+
+### 🚀 **Live Website**
+
+**https://flowtixlab929.github.io/hrms/**
+
+</p>
 # 🔑 Demo Access
 
 > Use the following demo credentials to explore the system.
